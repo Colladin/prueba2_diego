@@ -20,3 +20,20 @@ Con el comando git push -u origin main podremos subir los cambios hechos anterio
 
 ![alt text](images/image-10.png)
 
+Clona el repositorio remoto en tu máquina virtual Linux Debian (usando git clone). 
+
+Para ello entraremos en nuestra maquina virtual y utilizaremos el comando git clone y la dirección del directorio.
+
+![alt text](images/image-11.png)
+
+Modifica, en Windows, uno de los archivos y añade un 3º archivo de texto llamado archivo3.txt. Confirma los cambios(usando git add, git commit) y súbelos al repositorio (usando git push). 
+
+Para ello utilizaremos los mismos comandos que utilizamos para subir los dos anteriores archivos que creamos anteriormente.
+
+![alt text](images/image-12.png)
+
+Actualiza la versión local del repositorio en Linux Debian (usando git pull). 
+
+Para ello con escribir git pull sirve y te saldrá un mensaje como el siguiente:
+
+![alt text](images/image-13.png)
