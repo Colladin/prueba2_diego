@@ -1,1 +1,1 @@
-Linea modificada desde la rama main
+Linea unificada y resuelta entre ambas ramas
