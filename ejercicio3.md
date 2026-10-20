@@ -1,4 +1,4 @@
-Creamos la rama Primera con el comando git branch y dentro de esa tama crearemos el archivo
+Creamos la rama Primera con el comando git branch y dentro de esa rama crearemos el archivo
 ![alt text](image.png)
 
 Despues borraremos la rama recien creada con el comando git branch -D primera.
